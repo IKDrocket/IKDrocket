@@ -1,6 +1,10 @@
-### Hi there 👋
+### IKDrocket 👋
+[![](https://raw.githubusercontent.com/IKDrocket/IKDrocket/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/IKDrocket/IKDrocket/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+![](https://komarev.com/ghpvc/?username=IKDrocket&color=yellow) 
+[![IKDrocket](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FIKDRocket)](https://atcoder.jp/users/IKDrocket)
 
 <!--
 **IKDrocket/IKDrocket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
