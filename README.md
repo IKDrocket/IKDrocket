@@ -45,6 +45,9 @@
   <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png" alt="mssql" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
   <a href="https://github.co.jp/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png" alt="mssql" width="40" height="40"/> </a> 
+  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/aws_icon_137928.png" alt="mssql" width="40" height="40"/> </a> 
+
+
 
 
 </p>
