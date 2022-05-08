@@ -33,7 +33,7 @@
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" alt="python" width="40" height="40"/>
   <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_plain_logo_icon_146316.png" alt="typescript" width="40" height="40"/>
-  <a href="https://v3.ja.vuejs.org" target="_blank"> <img src="https://v3.ja.vuejs.org/logo.png" alt="typescript" width="40" height="40"/>
+<!--   <a href="https://v3.ja.vuejs.org" target="_blank"> <img src="https://v3.ja.vuejs.org/logo.png" alt="typescript" width="40" height="40"/> -->
   <!--
   <a href="https://www.r-project.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_r_icon_130212.png" alt="R" width="40" height="40"/> 
 -->
