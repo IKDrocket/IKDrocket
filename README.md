@@ -4,9 +4,9 @@
   <a href="https://github.com/IKDrocket/IKDrocket/">
     <img src="https://komarev.com/ghpvc/?username=IKDrocket" alt="IKDrocket" />
   </a>
-  <a href="http://twitter.com/1128_rocket">
+<!--   <a href="http://twitter.com/1128_rocket">
     <img height="20" src="https://img.shields.io/twitter/follow/1128_rocket?label=Twitter&logo=twitter&style=flat" />
-  </a>
+  </a> -->
   <a href="https://github.com/IKDrocket">
     <img height="20" src="https://img.shields.io/github/followers/IKDrocket?label=follow&logo=github&style=flat" />
   </a>
